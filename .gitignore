@@ -39,3 +39,4 @@
 *.out
 *.app
 mpags-cipher
+.vscode/settings.json
