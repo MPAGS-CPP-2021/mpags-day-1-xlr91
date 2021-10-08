@@ -10,7 +10,8 @@ More instructions available here https://warwick.ac.uk/fac/sci/physics/research/
 
 
 # Authors:
+Emir Muhammad
 
 # Documentation:
-fake change
+
 
